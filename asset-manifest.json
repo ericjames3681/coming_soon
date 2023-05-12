@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/coming_soon/static/css/main.6f0d0915.css",
+    "main.js": "/coming_soon/static/js/main.95589da9.js",
+    "static/js/787.fd9b63df.chunk.js": "/coming_soon/static/js/787.fd9b63df.chunk.js",
+    "static/media/bgGame.jpg": "/coming_soon/static/media/bgGame.2e6533169270ba81cbf5.jpg",
+    "static/media/materialdesignicons-webfont.eot": "/coming_soon/static/media/materialdesignicons-webfont.4a8138d1cb5d6b81b4ce.eot",
+    "static/media/materialdesignicons-webfont.ttf?v=6.1.95": "/coming_soon/static/media/materialdesignicons-webfont.06045137a6bebf225b52.ttf",
+    "static/media/materialdesignicons-webfont.woff?v=6.1.95": "/coming_soon/static/media/materialdesignicons-webfont.2e4e6992228f744fd7c8.woff",
+    "static/media/about.png": "/coming_soon/static/media/about.a14ce1313ad3140cbc20.png",
+    "static/media/materialdesignicons-webfont.woff2?v=6.1.95": "/coming_soon/static/media/materialdesignicons-webfont.2acd2598cbed682569c8.woff2",
+    "static/media/bg.jpg": "/coming_soon/static/media/bg.e8b89c43d2fd881cd6d1.jpg",
+    "static/media/blog-2.jpg": "/coming_soon/static/media/blog-2.bbdf3e2eb3d463d440f6.jpg",
+    "static/media/blog-3.jpg": "/coming_soon/static/media/blog-3.6c0d7ad5cac90ab280b9.jpg",
+    "static/media/laptop.png": "/coming_soon/static/media/laptop.57b376e65c7159f39205.png",
+    "static/media/bg-2.jpg": "/coming_soon/static/media/bg-2.efa565b6fa2ee02376c1.jpg",
+    "static/media/bg-3.jpg": "/coming_soon/static/media/bg-3.1d2bd10615380c9eef67.jpg",
+    "static/media/blog-1.jpg": "/coming_soon/static/media/blog-1.cf313788d92b91900a07.jpg",
+    "index.html": "/coming_soon/index.html",
+    "main.6f0d0915.css.map": "/coming_soon/static/css/main.6f0d0915.css.map",
+    "main.95589da9.js.map": "/coming_soon/static/js/main.95589da9.js.map",
+    "787.fd9b63df.chunk.js.map": "/coming_soon/static/js/787.fd9b63df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f0d0915.css",
+    "static/js/main.95589da9.js"
+  ]
+}
